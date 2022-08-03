@@ -4,15 +4,16 @@ h1 h2 h3{
 div{
     outline: 1px solid red;
 }
-/**.mainSection{
-    display: flex;
-    flex-direction: row;
-    outline: 1px solid red;
-}**/
-.flexContainer{
-   width: 33%;
+.section{
     display: flex;
     flex-direction: column;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-around;
+    outline: 1px solid red;
+}
+.flexContainer{
+   width: 33%;
     align-items: center;
     outline: 1px solid red;
 }
