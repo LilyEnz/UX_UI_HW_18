@@ -21,5 +21,8 @@ div{
 img{
     width: 100%;
     align-content: center;
-
 }
+body{
+    background-color: #FEF9EF;
+    font-family: Helvetica;
+  }
