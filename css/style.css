@@ -80,4 +80,7 @@ h1{
   .workGrid{
    grid-template-columns: 150px 200px;
   }
+  .workImg{
+    width: 150px;
+  }
 }
