@@ -1,3 +1,43 @@
+
+.inline-block{
+  display: inline-block;
+  vertical-align: top;
+}
+.logo{
+  width: 200px;
+  padding: 1%;
+  text-align: center;
+}
+
+nav {
+  width: 73%;
+  padding: 1%;
+  margin-left: auto;
+}
+
+.topNav {
+  vertical-align: top;
+  list-style-type: none;
+  width: 50%;
+  margin-left: auto;
+}
+li{
+  float:left;
+  padding: 16px;
+}
+
+footer{
+  background-color: #373738;
+  padding-left: 100px;
+  color: white;
+}
+.footerNav{
+  display: inline-block;
+  list-style-type: none;
+  vertical-align: bottom;
+  padding-left: 100px;
+}
+
 h1{
     text-align: center;
 }
